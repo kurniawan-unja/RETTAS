@@ -1,7 +1,7 @@
 import streamlit as st
 
 def Contacs():
-    st.title('Tim Penelitian Aplikasi RATTAS')
+    st.title('Tim Penelitian Aplikasi RETTAS')
 # Membuat 2 kolom
     col1, col2, col3 = st.columns(3)
 
